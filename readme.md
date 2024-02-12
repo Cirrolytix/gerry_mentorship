@@ -12,9 +12,9 @@ Current tools you will be using.
 	2. Data visualization for further presentation
 
 Subject matter of the project.
+
 	3. census 2024
 
-Trying to perform Github operation procedures***678
 
 Summary
 
