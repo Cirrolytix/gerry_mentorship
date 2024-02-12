@@ -20,4 +20,5 @@ I was employed as an LGU staff (Personal Staff of the LCE) in a municipality her
 I took the scholarship program of DOST implemented by Development
 academy of the Philippines (DAP) called SPARTA and just graduated this September as Analytics Manager with 3micro specialization pathway, namely: 1. Domain knowledge: Urban Planning Pathway, 2. Data Governance. and3. Computing.
 Also I earned a certificate on Business Analytics Concept and Framework from The University of the PhilippinesOpen University (UPOU).
-Experience
+
+x x x x x 
