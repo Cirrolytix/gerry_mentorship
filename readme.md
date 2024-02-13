@@ -565,3 +565,6 @@ ADULT PLUS.
 38, Private, 52187, Bachelors, 13, Married-civ-spouse, Sales, Husband, White, Male, 15024, 0, 50, United-States, >50K.
 28, Private, 349751, Bachelors, 13, Never-married, Exec-managerial, Not-in-family, Black, Male, 2174, 0, 50, United-States, <=50K.
 24, Local-gov, 238384, Bachelors, 13, Never-married, Prof-specialty, Own-child, White, Female, 0, 0, 37, United-States, <=50K.
+
+
+X X X X X X 
