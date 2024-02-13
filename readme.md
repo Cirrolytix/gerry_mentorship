@@ -27,4 +27,4 @@ When I graduated in SPARTA I thought I will only be dealing with data analysis t
 
 Data-driven decission-making will ease the burden of Poverty among Filipinos.
 
-x x x x x 
+x x x
