@@ -5,7 +5,7 @@ Now that you know how github works, please clean up the readme file to include t
 
 Objectives for the mentorship.
 
-	1. what ever is needed for the mentorship program
+	1. To put into real action the knowledge acquired from SPARTA training program by elaborating skills and experience into my Portfolio.
 	
 Current tools you will be using.
 
