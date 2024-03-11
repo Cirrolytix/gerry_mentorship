@@ -1,0 +1,9 @@
+
+SCENARIO:
+
+There is a noticeable loan rejection of adult applicants with income bracket of less 50000 pesos.
+
+HYPOTHESIS: 
+
+"Adult applicants with an income bracket of less than 50,000 pesos per month experience a 
+significantly higher rate of loan rejection compared to applicants with higher income brackets."
