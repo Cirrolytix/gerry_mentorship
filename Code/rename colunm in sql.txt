@@ -1,0 +1,1 @@
+ALTER TABLE kddcensus02 RENAME COLUMN col_42 TO Income_Per_Year;
