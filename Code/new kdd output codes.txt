@@ -15,3 +15,8 @@ ALTER TABLE kddcensus02 RENAME COLUMN col_5 TO Level_of_Education;
 ALTER TABLE kddcensus02 RENAME COLUMN col_25 TO Combined_Income_Per_Month;
 
 ALTER TABLE kddcensus02 RENAME COLUMN col_42 TO Income_Per_Year;
+
+
+SELECT Age, Marital_status, Gender, Level_of_Education, Combined_Income_Per_Month, Income_Per_Year
+FROM kddcensus02
+;
