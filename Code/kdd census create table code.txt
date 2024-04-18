@@ -1,0 +1,11 @@
+create table kddcensus02
+
+(col_1 varchar,col_2 varchar,col_3 varchar,col_4 varchar,col_5 varchar,col_6 varchar,col_7 varchar,col_8 varchar,
+ col_9 varchar,col_10 varchar,col_11 varchar,col_12 varchar,col_13 varchar,col_14 varchar,
+  col_15 varchar,col_16 varchar,col_17 varchar,col_18 varchar,col_19 varchar,col_20 varchar,
+ col_21 varchar,col_22 varchar,col_23 varchar,col_24 varchar,col_25 float,col_26 varchar,
+  col_27 varchar,col_28 varchar,col_29 varchar,col_30 varchar,col_31 varchar,col_32 varchar,
+ col_33 varchar,col_34 varchar,col_35 varchar,col_36 varchar,col_37 varchar,
+  col_38 varchar,col_39 varchar,col_40 varchar,col_41 varchar,col_42 varchar);
+
+select * from kddcensus02
