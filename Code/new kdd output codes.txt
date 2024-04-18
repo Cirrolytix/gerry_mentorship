@@ -1,0 +1,17 @@
+select *
+
+from kddcensus02
+	   
+	   
+alter table kddcensus02 rename colunm col_1 to Age;
+
+
+ALTER TABLE kddcensus02 RENAME COLUMN col_8 TO Marital_status;
+
+ALTER TABLE kddcensus02 RENAME COLUMN col_13 TO Gender;
+
+ALTER TABLE kddcensus02 RENAME COLUMN col_5 TO Level_of_Education;
+
+ALTER TABLE kddcensus02 RENAME COLUMN col_25 TO Combined_Income_Per_Month;
+
+ALTER TABLE kddcensus02 RENAME COLUMN col_42 TO Income_Per_Year;
